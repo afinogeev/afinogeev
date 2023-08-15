@@ -2,7 +2,7 @@
 
 Занимаюсь разработкой радиоэлектронной аппаратуры и программного обеспечения. Программирую на C/C++, Verilog, Python.
 
-### [GIT]([http://te-nn.ru/](https://gitflic.ru/user/afinogeev/projects))
+### [GIT](https://gitflic.ru/user/afinogeev/projects)
 
 # Опыт работы
 
